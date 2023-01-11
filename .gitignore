@@ -165,3 +165,7 @@ poetry.lock
 .python-version
 # emacs editing files
 *~
+
+data/
+batches/
+*/test_out/
