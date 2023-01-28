@@ -45,11 +45,11 @@ Note the ```<C>``` brackets that are inserted into the 'annotated review' below 
 ```commandline
 
 row_id:97673
-drug_name:Simvastatin
-condition:High Cholesterol
-review:"""The side effects of this medication are terrible. The dizziness, headache, and not being able to understand what was going on, felt like I was in a cloud. """
-rating:1
-useful_count:68
+drug_name: Simvastatin
+condition: High Cholesterol
+review: """The side effects of this medication are terrible. The dizziness, headache, and not being able to understand what was going on, felt like I was in a cloud. """
+rating: 1
+useful_count: 68
 
 annotated_review:"""The side effects of this medication are terrible. The <c>dizziness, headache, and not being able to understand what was going on</c>, felt like I was in a cloud. """
 annotator_assigned_credibility: High
@@ -57,5 +57,6 @@ annotator_assigned_credibility: High
 
 
 ## Usage
+TBD
 
 

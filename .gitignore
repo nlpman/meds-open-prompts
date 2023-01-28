@@ -169,3 +169,5 @@ poetry.lock
 data/
 batches/
 */test_out/
+
+.pat
